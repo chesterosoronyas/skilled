@@ -35,7 +35,7 @@ const SkillCard = ({
 		<article className="skill-card">
 			<Link
 				to="/skills"
-				tabindex={-1}
+				tabIndex={-1}
 				aria-label={`Open ${title}`}
 				className="overlay"
 			/>

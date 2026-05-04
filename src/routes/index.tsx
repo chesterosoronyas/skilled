@@ -1,4 +1,3 @@
-import { skip } from "node:test";
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { Terminal } from "lucide-react";
 import SkillCard from "#/components/SkillCard";
